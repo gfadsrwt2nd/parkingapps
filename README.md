@@ -17,6 +17,8 @@ This Apps CRUD can make simple management your bussiness
 <p>
   1. Ekstrak file parkingapps.zip<br>
   2. Salin ke folder C:\xampp\htdocs <br>
+  - a
+  - b
   3. Buat database baru park <br>
   4. Upload database yang berada di folder db <br>
   5. localhost/parkingapps/
