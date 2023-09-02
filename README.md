@@ -25,22 +25,21 @@ This Apps CRUD can make simple management your bussiness
 
 ## Screenshoot
 
-![1](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/a5cd6290-cbc5-4bd7-8fa4-29f46b336cef)
+![1](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/9b59d8bc-eab9-4213-8162-bd69f83fc7e7)
 
-![2](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/e756e4fa-1122-486f-a67f-e75daaf49742)
+![2](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/847d5b26-d768-45cf-bbe9-f2ab1ac84b4b)
 
-![3](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/932ee7f1-0157-44d4-b825-8ce95586f136)
+![3](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/d5f606a7-92fc-4913-9b51-fbfc002546c6)
 
-![4](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/c91ab187-fb8e-4a79-8e1b-3e603a8847f9)
+![4](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/5bbf856e-2e8a-4523-9a9d-00a8a28379a1)
 
-![5](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/a5bf7e6f-e86c-4c67-ad7b-4cf06affceab)
+![5](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/aa66796e-1393-441e-8d9a-091fc7205a83)
 
-![6](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/0e37d812-baa3-41c7-844d-ded151923348)
+![6](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/f5a7e298-c949-4eb6-8c34-75299355df3d)
 
-![7](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/012cd0c1-475f-4485-9a36-96df6a157939)
+![7](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/e80ace5f-f100-4c53-8bb9-ac62bec79a69)
 
-![8](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/1e813cc9-0afc-4df0-af2f-87284af3cb7e)
+![8](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/beb1ff77-e855-4cdd-91b1-4de6478c4981)
 
-![9](https://github.com/gfadsrwt2nd/parking-apps/assets/55633963/d6ec92f9-c59b-41bd-b7b7-cab610cb35a1)
-
+![9](https://github.com/gfadsrwt2nd/parkingapps/assets/55633963/7cafa438-f237-456b-b5f4-aefae269cee1)
 
