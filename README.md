@@ -7,9 +7,6 @@ This Apps CRUD can make simple management your bussiness
 <p>
   1. Halaman Beranda <br>
   2. Halaman Data Parkir <br>
-   - Tambah <br>
-   - Edit <br>
-   - Hapus <br>
   3. Halaman Tarif Parkir <br>
   4. Halaman Riwayat Transaksi <br>
   5. Halaman Laporan Data Parkir & Pendapatan <br>
