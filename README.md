@@ -7,6 +7,9 @@ This Apps CRUD can make simple management your bussiness
 <p>
   1. Halaman Beranda <br>
   2. Halaman Data Parkir <br>
+   - Tambah <br>
+   - Edit <br>
+   - Hapus <br>
   3. Halaman Tarif Parkir <br>
   4. Halaman Riwayat Transaksi <br>
   5. Halaman Laporan Data Parkir & Pendapatan <br>
@@ -17,8 +20,6 @@ This Apps CRUD can make simple management your bussiness
 <p>
   1. Ekstrak file parkingapps.zip<br>
   2. Salin ke folder C:\xampp\htdocs <br>
-  - a
-  - b
   3. Buat database baru park <br>
   4. Upload database yang berada di folder db <br>
   5. localhost/parkingapps/
